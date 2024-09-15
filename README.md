@@ -1,2 +1,2 @@
 # Course
-Team admin
+Team admin sqd
